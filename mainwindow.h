@@ -3,7 +3,7 @@
 
 #include <QtGui/QMainWindow>
 
-// #include "sourcecodewindow.h"
+// #includsourcecodewindow.h"
 
 namespace Ui
 {
@@ -19,7 +19,7 @@ public:
     ~MainWindow();
 
 private:
-    Ui::MainWindowClass *ui;
+    Ui::MainWindowClass *ui    SourceCodePane *sourceCodePaneui;
 };
 
-#endif // MAINWINDOW_H
+#endif // MAINWINDOW_
