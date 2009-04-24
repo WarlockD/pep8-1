@@ -3,7 +3,20 @@
 
 #include <QtGui/QMainWindow>
 
-// #includsourcecodewindow.h"
+// Left
+#include "sourcecodepane.h"
+#include "objectcodepane.h"
+#include "assemblerlistingpane.h"
+#include "memorytracepane.h"
+
+// Middle
+#include "cpupane.h"
+#include "inputpane.h"
+#include "outputpane.h"
+#include "terminalpane.h"
+
+// Right
+#include "memorydumpwindow.h"
 
 namespace Ui
 {
@@ -19,7 +32,20 @@ public:
     ~MainWindow();
 
 private:
-    Ui::MainWindowClass *ui    SourceCodePane *sourceCodePaneui;
+    Ui::MainWindowClass *ui    // Left
+    SourceCodePane *sourceCodePane;
+    ObjectCodePane *objectCodePane;
+    AssemblerListingPane *assemblerListingPane;
+    MemoryTracePane *memoryTracePane;
+
+    // Middle
+    CpuPane *cpuPane;
+    InputPane *inputPane;
+    OutputPane *outputPane;
+    TerminalPane *terminalPane;
+
+    // Right
+    MemoryDumpPane *memoryDumpPane;
 };
 
-#endif // MAINWINDOW_
+#endif // MAINWINDOW_H
