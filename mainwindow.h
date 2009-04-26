@@ -16,7 +16,8 @@
 #include "terminalpane.h"
 
 // Right
-#include "memorydumpwindow.h"
+#include "memorydumpwindow.h"// Dialog boxes
+#include "redefinemnemonicsdialogow.h"
 
 namespace Ui
 {
@@ -46,6 +47,9 @@ private:
 
     // Right
     MemoryDumpPane *memoryDumpPane;
+
+    // Dialog boxes
+    RedefineMnemonicsDialog *redefineMnemonicsDialog;
 };
 
 #endif // MAINWINDOW_H
