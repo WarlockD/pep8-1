@@ -6,7 +6,7 @@ Dot Commands available in the Pep8 simulator
 
 = Details =
 
-|| Dot Command || Description  || 
+|| *Dot Command* || *Description*  || 
 || .ADDRESS symbol || The address of a symbol (two bytes) || 
 || .ASCII "string" || A string of ASCII bytes || 
 || .BLOCK n || A block of n bytes || 
