@@ -1,0 +1,18 @@
+#summary Addressing Modes Available in the Pep8 Simulator
+
+= Introduction =
+
+Addressing Modes Available in the Pep8 Simulator
+
+
+= Details =
+
+|| Addressing Mode || aaa || Letters || Operand ||
+|| Immediate || 0 || i || OprndSpec ||
+|| Direct || 1 || d || Mem [OprndSpec ] ||
+|| Indirect || 10 || n || Mem [Mem [OprndSpec ]] ||
+|| Stack-relative || 11 || s || Mem [SP + OprndSpec ] ||
+|| Stack-relative deferred || 100 || sf || Mem [Mem [SP + OprndSpec ]] ||
+|| Indexed || 101 || x || Mem [OprndSpec + X ] ||
+|| Stack-indexed || 110 || sx || Mem [SP + OprndSpec + X ] ||
+|| Stack-indexed deferred || 111 || sxf || Mem [Mem [SP + OprndSpec ] + X ] ||
