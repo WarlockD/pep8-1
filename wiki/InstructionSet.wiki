@@ -6,7 +6,7 @@ Instruction set in the Pep/8 computer.
 
 = Details =
 
-|| Instruction Specifier  || Mnemonic || Instruction  || Addressing Modes || Status Bits||
+|| *Instruction Specifier*  || *Mnemonic* || *Instruction*  || *Addressing Modes* || *Status Bits*||
 ||0000 0000  || STOP  || Stop execution  || U  || ||
 ||0000 0001  || RETTR  || Return from trap  || U  || ||
 ||0000 0010  || MOVSPA  || Move SP to A  || U  || ||
