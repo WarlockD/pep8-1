@@ -21,7 +21,7 @@
 
 // Right pane
 #include "memorydumpwindow.h"// Dialog boxes
-#include "redefinemnemonicsdialogow.h"
+#include "redefinemnemonicsdialogow.h#include "helpdialogow.h"
 
 namespace Ui
 {
@@ -54,6 +54,7 @@ private:
 
     // Dialog boxes
     RedefineMnemonicsDialog *redefineMnemonicsDialog;
+    HelpDialog *helpDialog;
 
     // Byte converter
     ByteConverterDec *byteConverterDec;
