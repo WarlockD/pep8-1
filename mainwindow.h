@@ -21,7 +21,9 @@
 
 // Right pane
 #include "memorydumpwindow.h"// Dialog boxes
-#include "redefinemnemonicsdialogow.h#include "helpdialogow.h"
+#include "redefinemnemonicsdialogow.h#include "helpdialogow.h"// Assembler and simulator
+#include "assembler.h"
+#include "simulatorow.h"
 
 namespace Ui
 {
@@ -61,6 +63,10 @@ private:
     ByteConverterHex *byteConverterHex;
     ByteConverterBin *byteConverterBin;
     ByteConverterChar *byteConverterChar;
+
+    // Assembler and simulator
+    Assembler *assembler;
+    Simulator *simulator;
 
 private slots:
     // File
