@@ -21,9 +21,7 @@
 
 // Right pane
 #include "memorydumpwindow.h"// Dialog boxes
-#include "redefinemnemonicsdialogow.h#include "helpdialogow.h"// Assembler and simulator
-#include "assembler.h"
-#include "simulatorow.h"
+#include "redefinemnemonicsdialogow.h#include "helpdialogow.h"
 
 namespace Ui
 {
