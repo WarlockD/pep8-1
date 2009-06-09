@@ -37,6 +37,9 @@ public:
     MainWindow(QWidget *parent = 0);
     ~MainWindow();
 
+otected:
+    void closeEvent(QCloseEvent *eventw();
+
 private:
     Ui::MainWindowClass *uii    // Left pane
     SourceCodePane *sourceCodePane;
