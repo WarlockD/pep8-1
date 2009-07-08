@@ -169,6 +169,7 @@ private slots:
 
     // For updating the CPU and Memory trace from listing trace pane
     void updateCpuAndMemoryTrace();
+    void appendOutput(QString str);
 
     // Recent files
     void openRecentFile();
