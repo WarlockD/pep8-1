@@ -171,6 +171,9 @@ private slots:
     void updateSimulationView();
     void appendOutput(QString str);
 
+    void resumeButtonClicked();
+    void singleStepButtonClicked();
+
     // Recent files
     void openRecentFile();
 
