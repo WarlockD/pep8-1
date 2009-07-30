@@ -129,6 +129,7 @@ private slots:
     void on_actionBuild_Start_Debugging_Source_triggered();
     void on_actionBuild_Run_Object_triggered();
     void on_actionBuild_Start_Debugging_Object_triggered();
+    void on_actionBuild_Start_Debugging_Loader_triggered();
     void on_actionBuild_Stop_Debugging_triggered();
     void on_actionBuild_Interrupt_Execution_triggered();
 
@@ -142,7 +143,6 @@ private slots:
     void on_actionView_Terminal_Tab_triggered();
 
     // System
-    void on_actionSystem_Trace_Load_triggered();
     void on_actionSystem_Redefine_Mnemonics_triggered();
     void on_actionSystem_Assemble_Install_New_OS_triggered();
     void on_actionSystem_Reinstall_Default_OS_triggered();
