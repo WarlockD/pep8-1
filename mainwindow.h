@@ -22,7 +22,7 @@
 
 // Right pane
 #include "memorydumpwindow.h"// Dialog boxes
-#include "redefinemnemonicsdialogow.h#include "helpdialogow.h"
+#include "redefinemnemonicsdialogow.h#include "helpdialogow.h#include "aboutpepow.h"
 
 namespace Ui
 {
@@ -60,6 +60,7 @@ private:
     // Dialog boxes
     RedefineMnemonicsDialog *redefineMnemonicsDialog;
     HelpDialog *helpDialog;
+    AboutPep *aboutPepDialog;
 
     // Byte converter
     ByteConverterDec *byteConverterDec;
@@ -149,6 +150,7 @@ private slots:
 
     // Help
     void on_actionHelp_triggered();
+    void on_actionHelp_Check_for_updates_triggered();
     void on_actionHelp_Machine_Language_triggered();
     void on_actionHelp_Assembly_Language_triggered();
     void on_actionHelp_Debugging_Programs_triggered();
