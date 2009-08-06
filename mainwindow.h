@@ -86,6 +86,7 @@ private:
     QString curSourceFile;
     QString curObjectFile;
     QString curListingFile;
+    QString curPath;
 
     // Recent Files methods
     void updateRecentFileActions();
