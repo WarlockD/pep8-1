@@ -1,4 +1,4 @@
-#summary Addressing Modes Available in the Pep8 Simulator
+#summary Addressing modes for the Pep8 computer
 
 = Introduction =
 
