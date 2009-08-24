@@ -1,4 +1,4 @@
-#summary Instruction set in the Pep/8 computer.
+#summary Instruction set for the Pep/8 computer.
 
 = Introduction =
 
