@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Instruction set in the Pep/8 computer.
+Instruction set for the Pep/8 computer.
 
 = Details =
 
