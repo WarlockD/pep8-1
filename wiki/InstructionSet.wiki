@@ -1,10 +1,4 @@
-#summary Instruction set for the Pep/8 computer.
-
-= Introduction =
-
-Instruction set for the Pep/8 computer.
-
-= Details =
+= Instruction set for the Pep/8 computer =
 
 || *Instruction Specifier*  || *Mnemonic* || *Instruction*  || *Addressing Modes* || *Status Bits*||
 ||0000 0000  || STOP  || Stop execution  || U  || ||
