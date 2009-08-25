@@ -1,10 +1,4 @@
-#summary Dot Commands available in the Pep8 simulator
-
-= Introduction =
-
-Dot Commands available in the Pep8 simulator
-
-= Details =
+#summary Dot Commands for Pep8 assembly language
 
 || *Dot Command* || *Description*  || 
 || .ADDRESS symbol || The address of a symbol (two bytes) || 
