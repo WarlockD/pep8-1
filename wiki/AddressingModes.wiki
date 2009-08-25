@@ -1,6 +1,6 @@
 #summary Addressing modes for the Pep8 computer
 
-|| *Addressing Mode* || *aaa* || *Letters* || *Operand* ||
+|| *Addressing Mode* || *aaa-field* || *Letters* || *Operand* ||
 || Immediate || 0 || i || OprndSpec ||
 || Direct || 1 || d || Mem (OprndSpec) ||
 || Indirect || 10 || n || Mem (Mem (OprndSpec)) ||
@@ -9,3 +9,7 @@
 || Indexed || 101 || x || Mem (OprndSpec + X ) ||
 || Stack-indexed || 110 || sx || Mem (SP + OprndSpec + X ) ||
 || Stack-indexed deferred || 111 || sxf || Mem ( Mem (SP + OprndSpec ) + X ) ||
+
+|| *Addressing Mode* || *a-field* || *Letters* || *Operand* ||
+|| Immediate || 0 || i || OprndSpec ||
+|| Indexed || 1 || x || Mem (OprndSpec + X ) ||
