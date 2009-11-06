@@ -1,0 +1,32 @@
+#summary One-sentence summary of this page.
+
+= Errata for the Fourth Edition, first printing of _Computer Systems_ =
+
+*Page 119*
+
+In Figure 3.26, delete eight boxes.
+
+*Page 270*
+
+In the caption for Figure 6.35, change "Figure 2.25" to "Figure 2.28".
+
+*Page 282*
+
+In the Assembly Language listing, change "2" to "4" and "0" to "2" as follows:
+{{{
+retVal:  .EQUATE 4           ;returned value #2d
+a:       .EQUATE 2           ;formal parameter #2d
+}}}
+
+*Page 294*
+
+In Figure 6.39(b), change "0060" to "0063" in the box for `retAddr`.
+
+*Page 301*
+
+In the Assembly Language listing, change "2d" to "2h" in three places as follows:
+{{{
+a:       .BLOCK  2           ;global variable #2h
+b:       .BLOCK  2           ;global variable #2h
+c:       .BLOCK  2           ;global variable #2h
+}}}
