@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-
-= Errata for the Fourth Edition, first printing of _Computer Systems_ =
+#summary Errata for the Fourth Edition, first printing of _Computer Systems_
 
 *Page 119*
 
