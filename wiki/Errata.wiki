@@ -28,3 +28,7 @@ a:       .BLOCK  2           ;global variable #2h
 b:       .BLOCK  2           ;global variable #2h
 c:       .BLOCK  2           ;global variable #2h
 }}}
+
+*Page 479*
+
+In the caption for Figure 9.28(b), change "mirros" to "mirrors".
