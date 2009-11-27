@@ -1,7 +1,7 @@
 #summary Dot Commands for Pep8 assembly language
 
 || *Dot Command* || *Description*  || 
-|| .ADDRESS symbol || The address of a symbol (two bytes) || 
+|| .ADDRSS symbol || The address of a symbol (two bytes) || 
 || .ASCII "string" || A string of ASCII bytes || 
 || .BLOCK n || A block of n bytes || 
 || .BURN 0xFFFF || Initiate ROM burn ending at 0xFFFF || 
