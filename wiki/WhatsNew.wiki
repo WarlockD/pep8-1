@@ -1,5 +1,9 @@
 #summary This page describes what's new for each release.
 
+=What's new in version 8.1.2=
+
+Version 8.1.2 now traces the fields of global `struct`s and dynamic variables allocated from the heap with the `new` operator. The heap trace draws a frame around a `struct` consisting of, for example, a node in a linked list. The positioning of the graphic elements in the trace pane is fine tuned so that as the stack grows to require scroll bars, the top of the stack is consistently visible at the top of the graphics pane.
+
 =What's new in version 8.1.1=
 
 Version 8.1.1 has the symbolic tracer using the trace tags described in the Fourth Edition of the text. This version will trace global variables, and local variables and parameters on the run-time stack. It allows accented characters from the extended ASCII character set (ISO 8859-1) to be used and saved in source programs. There is a new Clear Memory menu option. A scrolling option in the memory dump pane lets the user input an address, or view the region of memory pointed to by the stack pointer or program counter by the click of a button. Also included are performance enhancements and bug fixes.
