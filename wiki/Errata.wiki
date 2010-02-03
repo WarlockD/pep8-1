@@ -40,3 +40,7 @@ In the caption for Figure 9.28(b), change "mirros" to "mirrors".
 *Page 501*
 
 In Figure 10.13, change " a + b dot c' " to "a + b' dot c " as the expression is in the caption.
+
+*Page 614*
+
+In the caption for Figure 12.14, add "memory" to read "The pinout diagram of the Pep/8 memory chip."
