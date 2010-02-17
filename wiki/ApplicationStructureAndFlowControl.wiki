@@ -1,0 +1,9 @@
+#summary Flow Control and Application Structure of Pep/8
+
+= Introduction =
+
+Pep/8 uses the mediator design pattern, and flow moves through the mainWindow. For example, when the "Copy to Source/Object" button is clicked in the helpDialog, the helpDialog emits a signal to the mainWindow, and chooses whether to send the signal to the ObjectCodePane or the SourceCodePane.
+
+= Details =
+
+To be completed later.
