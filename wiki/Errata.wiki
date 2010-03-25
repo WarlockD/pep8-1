@@ -1,3 +1,5 @@
+#summary A summary of printing errors found in the fourth edition of the textbook, and their corresponding fixes.
+
 ===Errata for the Fourth Edition, first printing of _Computer Systems_===
 
 *Page 119*
