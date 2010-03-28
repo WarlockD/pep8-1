@@ -51,3 +51,9 @@ In Figure 10.13, change " a + b dot c' " to "a + b' dot c " as the expression is
 *Page 614*
 
 In the caption for Figure 12.14, add "memory" to read "The pinout diagram of the Pep/8 memory chip."
+
+*Page A25, Appendix*
+
+In the solution for Exercise 9, change the entire paragraph to read as follows:
+
+"9 (a) Hint:  To force the master and slave to 0, the Clear input should (1) force the master to the Q = 0 state, and (2) force the slave to the Q = 0 state. Consider the possibility of adding an extra input to some of the NOR gates."
