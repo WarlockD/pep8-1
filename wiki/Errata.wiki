@@ -48,6 +48,10 @@ In the caption for Figure 9.28(b), change "mirros" to "mirrors".
 
 In Figure 10.13, change " a + b dot c' " to "a + b' dot c " as the expression is in the caption.
 
+*Page 592*
+
+In Exercise 9, change "... as in Figure 11.30" to "... as in Figure 11.31". Add a phrase at the end of the third sentence to read " When Clear is 1, both the master state, Q2, and the slave state, Q, should be forced to 0 assuming that the clock input remains at 0."
+
 *Page 614*
 
 In the caption for Figure 12.14, add "memory" to read "The pinout diagram of the Pep/8 memory chip."
@@ -56,4 +60,4 @@ In the caption for Figure 12.14, add "memory" to read "The pinout diagram of the
 
 In the solution for Exercise 9, change the entire paragraph to read as follows:
 
-"9 (a) Hint:  To force the master and slave to 0, the Clear input should (1) force the master to the Q = 0 state, and (2) force the slave to the Q = 0 state. Consider the possibility of adding an extra input to some of the NOR gates."
+"9 (a) Hint:  To force the master and slave to 0 assuming that the clock remains at 0, consider the possibility of adding an extra input to some of the NOR gates."
