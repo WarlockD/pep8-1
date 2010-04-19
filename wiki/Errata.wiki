@@ -40,6 +40,10 @@ c:       .BLOCK  2           ;global variable #2h
 
 In the caption for Figure 6.49, change "Figure 6.25" to "Problem 6.23".
 
+*Page 366*
+
+On the first line of Figure 7.32 change the font color from blue to black and remove the slant to make consistent with the other lines.
+
 *Page 479*
 
 In the caption for Figure 9.28(b), change "mirros" to "mirrors".
