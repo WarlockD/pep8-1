@@ -6,6 +6,10 @@
 
 In Figure 3.26, delete eight boxes.
 
+*Page 120*
+
+In Example 3.35, change "011" to "0011" to read "... with the bit pattern 0011 endlessly repeating."
+
 *Page 216*
 
 Near the middle of the page, correct the spelling of "translation" from "tranlation" in the sentence
