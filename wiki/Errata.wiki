@@ -10,6 +10,12 @@ In Figure 3.26, delete eight boxes.
 
 In Example 3.35, change "011" to "0011" to read "... with the bit pattern 0011 endlessly repeating."
 
+*Page 141*
+
+In Exercises 3.19 and 3.20 in four places, trim the horizontal line to align with the left "ADD".
+Also in four places, break the line line and align with the right "ADD".
+See Exercises 3.22 and 3.23 on page 142 for the proper break and alignment.
+
 *Page 216*
 
 Near the middle of the page, correct the spelling of "translation" from "tranlation" in the sentence
