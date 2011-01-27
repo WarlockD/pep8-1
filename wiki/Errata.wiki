@@ -16,6 +16,10 @@ In Exercises 3.19 and 3.20 in four places, trim the horizontal line to align wit
 Also in four places, break the line line and align with the right "ADD".
 See Exercises 3.22 and 3.23 on page 142 for the proper break and alignment.
 
+*Page 143*
+
+In Exercises 3.24 and 3.25, add these two sentences to the exercise description, "With ASL, show the effect on the NZVC bits. With ASR show the effect on the NZC bits.".
+
 *Page 216*
 
 Near the middle of the page, correct the spelling of "translation" from "tranlation" in the sentence
