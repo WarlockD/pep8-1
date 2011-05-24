@@ -74,6 +74,10 @@ In Exercise 9, change "... as in Figure 11.30" to "... as in Figure 11.31". Add 
 
 In the caption for Figure 12.14, add "memory" to read "The pinout diagram of the Pep/8 memory chip."
 
+*Page 622*
+
+Addendum: Maurice V. Wilkes died on November 29, 2010.
+
 *Page 645*
 
 In Example 12.10, change "CMux=0" to "CMux=1" in the line numbered 1. on the bottom of the page.
