@@ -1,4 +1,4 @@
-#This page describes what's new for each release of the Pep/8 CPU Simulator
+#summary This page describes what's new for each release of the Pep/8 CPU Simulator
 
 =What's new in Pep/8 CPU version 8.0.0=
 
