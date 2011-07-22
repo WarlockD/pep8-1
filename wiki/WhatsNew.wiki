@@ -1,4 +1,4 @@
-#summary This page describes what's new for each release.
+#summary This page describes what's new for each release of the Pep/8 Assembler and Simulator
 
 =What's new in version 8.1.3=
 
