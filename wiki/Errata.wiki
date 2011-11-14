@@ -2,6 +2,12 @@
 
 ===Errata for the Fourth Edition, first printing of _Computer Systems_===
 
+*Page 93*
+
+In Figure 3.4(a) The binary number 10110, insert five multiplication signs "x" in the white space gaps.
+
+In Figure 3.4(b) decimal number 58,036, insert five multiplication signs "x" in the white space gaps.
+
 *Page 119*
 
 In Figure 3.26, delete eight boxes.
