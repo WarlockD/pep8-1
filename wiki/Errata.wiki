@@ -2,6 +2,14 @@
 
 ===Errata for the Fourth Edition, first printing of _Computer Systems_===
 
+*Page 82*
+
+In Exercise 2.8, switch the order of two lines in function main as follows:
+{{{
+//ra1
+cout << str << endl;
+}}}
+
 *Page 93*
 
 In Figure 3.4(a) The binary number 10110, insert five multiplication signs "x" in the white space gaps.
