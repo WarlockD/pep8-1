@@ -2,6 +2,10 @@
 
 ===Errata for the Fourth Edition, first printing of _Computer Systems_===
 
+*Page 76*
+
+In Figure 2.38(g), change the number in the bottom box (to which a and b point) from "5" to "3".
+
 *Page 82*
 
 In Exercise 2.8, switch the order of two lines in function main as follows:
