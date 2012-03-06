@@ -76,9 +76,13 @@ In the caption for Figure 6.49, change "Figure 6.25" to "Problem 6.23".
 
 In the first sentence in the section "Multiple Token Recognizers", change "set" to "string" to read, "A token is a string of terminal characters ..."
 
+*Page 364*
+
+In the box labeled "TIdentifier" of Figure 7.30, change the word "int" to "string" to read "- identValue: string".
+
 *Page 366*
 
-On the first line of Figure 7.32 change the font color from blue to black and remove the slant to make consistent with the other lines.
+On the first line of Figure 7.32, change the font color from blue to black and remove the slant to make consistent with the other lines.
 
 *Page 479*
 
