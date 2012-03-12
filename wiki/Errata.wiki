@@ -78,7 +78,7 @@ In the first sentence in the section "Multiple Token Recognizers", change "set" 
 
 *Page 364*
 
-In the box labeled "TIdentifier" of Figure 7.30, change the word "int" to "string" to read "- identValue: string".
+In the box labeled "TIdentifier" of Figure 7.30, change the word "int" to "string" to read "- identValue: string", and change "TInteger" to "TIdentifier" to read "+ TIdentifier (str: string)".
 
 *Page 366*
 
