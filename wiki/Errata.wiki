@@ -111,3 +111,7 @@ In Example 12.10, change "CMux=0" to "CMux=1" in the line numbered 1. on the bot
 *Page 646*
 
 In Example 12.10 in the first paragraph of the page, change "CMux=0" to "CMux=1" to read "... the result on CBus through CMux with the CMux=1 signal."
+
+*Page 662*
+
+In Exercise 12.27 in the first sentence of part (b), change "implementation" to "connections" and "32" to "128" to read "Draw the connections of the 128 four-input multiplexers."
