@@ -43,6 +43,10 @@ In Exercises 3.24 and 3.25, add these two sentences to the exercise description,
 Near the middle of the page, correct the spelling of "translation" from "tranlation" in the sentence
 "This translation of ...".
 
+*Page 243*
+
+In the first paragraph, change "6" to "4" in two places to read "... that the stack offset for local variable `exam1` is 4." and "... equates the symbol `exam1` to 4.".
+
 *Page 270*
 
 In the caption for Figure 6.35, change "Figure 2.25" to "Figure 2.28".
