@@ -20,9 +20,17 @@ In Figure 3.4(a) The binary number 10110, insert five multiplication signs "x" i
 
 In Figure 3.4(b) decimal number 58,036, insert five multiplication signs "x" in the white space gaps.
 
+*Page 113*
+
+In Figure 3.21(b), delete four boxes.
+
 *Page 119*
 
 In Figure 3.26, delete eight boxes.
+
+*Page 119*
+
+In Example 3.34, change "101" to "110" to read "The conversion of the whole part gives 110 (bin) to the left ..."
 
 *Page 120*
 
