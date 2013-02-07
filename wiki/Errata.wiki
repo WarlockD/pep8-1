@@ -56,7 +56,7 @@ In Problem 4.15, add the following two sentences to the problem description, "St
 
 *Page 205*
 
-In the last sentence of the second paragraph, change "000" to "0" and "aaa" tp "a" to read "... the assembler will assume immediate addressing and generate 0 for the addressing-a field.".
+In the last sentence of the second paragraph, change "000" to "0" and "aaa" to "a" to read "... the assembler will assume immediate addressing and generate 0 for the addressing-a field.".
 
 *Page 216*
 
