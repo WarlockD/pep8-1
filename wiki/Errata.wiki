@@ -46,9 +46,17 @@ See Exercises 3.22 and 3.23 on page 142 for the proper break and alignment.
 
 In Exercises 3.24 and 3.25, add these two sentences to the exercise description, "With ASL, show the effect on the NZVC bits. With ASR show the effect on the NZC bits.".
 
+*Page 165*
+
+Just before Example 4.12, change "Operand" to "Oprnd" to read "byte Oprnd <- r<8..15>".
+
 *Page 187*
 
 In Problem 4.15, add the following two sentences to the problem description, "Store the -3 in hexadecimal. Do not use the subtract, negate, or invert instructions.".
+
+*Page 205*
+
+In the last sentence of the second paragraph, change "000" to "0" and "aaa" tp "a" to read "... the assembler will assume immediate addressing and generate 0 for the addressing-a field.".
 
 *Page 216*
 
