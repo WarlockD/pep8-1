@@ -63,6 +63,15 @@ In the last sentence of the second paragraph, change "000" to "0" and "aaa" to "
 Near the middle of the page, correct the spelling of "translation" from "tranlation" in the sentence
 "This translation of ...".
 
+*Page 222*
+
+In the last code fragment opposite the margin note "_Legal at level Asmb5_", change "`LOADA`" to "`LDA`" and "`STOREA`" to "`STA`" as follows:
+{{{
+LDA y,d
+ANDA 0x0007,i
+STA y,d
+}}}
+
 *Page 243*
 
 In the first paragraph, change "6" to "4" in two places to read "... that the stack offset for local variable `exam1` is 4." and "... equates the symbol `exam1` to 4.".
@@ -95,6 +104,14 @@ c:       .BLOCK  2           ;global variable #2h
 *Page 324*
 
 In the caption for Figure 6.49, change "Figure 6.25" to "Problem 6.23".
+
+*Page 338*
+
+In the sentence just before the heading "A Context Sensitive Grammar", change "and" to a right arrow to read "The rule M -> d provides the basis for ..." with the right arrow typeset as in the previous paragraph.
+
+*Page 345*
+
+In Figure 7.9, remove the brackets "<" and ">" around the word "while", and set the letters in "while" to computer font.
 
 *Page 351*
 
