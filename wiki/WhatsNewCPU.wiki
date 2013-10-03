@@ -10,7 +10,7 @@ The Windows version is now available with a standard Windows installer. When you
 
 The most visible improvement is a vastly expanded help system modeled after the new help system on the Pep/8 Assembler and Simulator. It features complete instructions with accompanying screenshots that describe every aspect of the new software.
 
-Whereas previous releases included programs from the text as separate files, with the release of version 8.0.0 every example from the text is built into the help system and is available at the click of a button.  Students can instantly transfer any assembly language example to the main window to try it out.
+Whereas previous releases included programs from the text as separate files, with the release of version 8.0.0 every example from the text is built into the help system and is available at the click of a button.  Students can instantly transfer any microcode example to the main window to try it out.
 
 ===Unit tests===
 
