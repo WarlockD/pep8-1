@@ -160,3 +160,15 @@ In Example 12.10 in the first paragraph of the page, change "CMux=0" to "CMux=1"
 *Page 662*
 
 In Exercise 12.27 in the first sentence of part (b), change "implementation" to "connections" and "32" to "128" to read "Draw the connections of the 128 four-input multiplexers."
+
+*Page A11*
+
+In the solution for Exercise 3.13(a), change the superscript in the first term from 2 to 1 to read "2x10^1^".
+
+*Page A11*
+
+In the solution for Exercise 3.22, change "N = 0" to "N = 1" in two places for part (e) and for part (f).
+
+*Page A12*
+
+In the solution for Exercise 3.31(a), change "5' TO "4" to read "11,614 (dec)".
