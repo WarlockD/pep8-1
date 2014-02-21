@@ -172,3 +172,7 @@ In the solution for Exercise 3.22, change "N = 0" to "N = 1" in two places for p
 *Page A12*
 
 In the solution for Exercise 3.31(a), change "5' TO "4" to read "11,614 (dec)".
+
+*Page A25*
+
+In the solution for Exercise 11.13(a) last line with "Y", keep the bar over "A" and place a bar over the first "X2" in "Y = A X2 + ...".
