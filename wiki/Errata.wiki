@@ -145,13 +145,25 @@ In the caption for Figure 11.33, change "0" to "2" to read "... diagram of Figur
 
 In Exercise 9, change "... as in Figure 11.30" to "... as in Figure 11.31". Add a phrase at the end of the third sentence to read " When Clear is 1, both the master state, Q2, and the slave state, Q, should be forced to 0 regardless of whether the clock is 0 or 1."
 
+*Page 613*
+
+In the last paragraph, change "?" to "." to read "... at address 1BD5, which is an odd address."
+
 *Page 614*
 
 In the caption for Figure 12.14, add "memory" to read "The pinout diagram of the Pep/8 memory chip."
 
+*Page 620*
+
+In the third paragraph, "pronounce" to "pronounced" to read "... (RISC, pronounced _risk_)."
+
 *Page 622*
 
 Addendum: Maurice V. Wilkes died on November 29, 2010.
+
+*Page 642*
+
+In the last paragraph, eliminate the comma to read "... is simpler than that of Pep/8 and can be implemented ..."
 
 *Page 645*
 
