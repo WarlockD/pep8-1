@@ -125,6 +125,10 @@ In the box labeled "TIdentifier" of Figure 7.30, change the word "int" to "strin
 
 On the first line of Figure 7.32, change the font color from blue to black and remove the slant to make consistent with the other lines.
 
+*Page 396*
+
+On the second line of subsection The Trap Mechanism, change "7" to "F" to read "`Temp <-- Mem[FFFA]`".
+
 *Page 479*
 
 In the caption for Figure 9.28(b), change "mirros" to "mirrors".
