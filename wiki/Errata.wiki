@@ -2,6 +2,10 @@
 
 ===Errata for the Fourth Edition, first printing of _Computer Systems_===
 
+*Page 38*
+
+In the penultimate paragraph, chang "input" to "output" to read, "You can redirect the output to go ...".
+
 *Page 76*
 
 In Figure 2.38(g), change the number in the bottom box (to which a and b point) from "5" to "3".
@@ -121,6 +125,10 @@ In the first sentence in the section "Multiple Token Recognizers", change "set" 
 
 In the box labeled "TIdentifier" of Figure 7.30, change the word "int" to "string" to read "- identValue: string", and change "TInteger" to "TIdentifier" to read "+ TIdentifier (str: string)".
 
+*Page 364*
+
+In the first complete sentence, change "TInteger" to "TIdentifier" to read, "Class Identifier has a similar ...".
+
 *Page 366*
 
 On the first line of Figure 7.32, change the font color from blue to black and remove the slant to make consistent with the other lines.
@@ -128,6 +136,18 @@ On the first line of Figure 7.32, change the font color from blue to black and r
 *Page 396*
 
 On the second line of subsection The Trap Mechanism, change "7" to "F" to read "`Temp <-- Mem[FFFA]`".
+
+*Page 416*
+
+Change "8.3" to "8.15" in the figure caption to read "Figure 8.15".
+
+*Page 473*
+
+In the first sentence of the last paragraph, change "Raid" to "RAID" to read, "RAID level 10 is more expensive ...".
+
+*Page 478*
+
+In the first paragraph, change "000000" to "00000" to read, "You could conclude that 00000 was sent ...".
 
 *Page 479*
 
@@ -143,7 +163,11 @@ In Figure 10.55, change "0" to "V" in the fourth row from the bottom to read "11
 
 *Page 571*
 
-In the caption for Figure 11.33, change "0" to "2" to read "... diagram of Figure 11.32.".
+In the caption for Figure 11.33, change "six" to "five" to read "... the first five bits of the address ...".
+
+*Page 585*
+
+In the last sentence of the third-from-last paragraph, change "0" to "2" to read "... diagram of Figure 11.32.".
 
 *Page 592*
 
@@ -175,15 +199,35 @@ In the last paragraph, eliminate the comma to read "... is simpler than that of 
 
 *Page 645*
 
+In Example 12.10, change "memory" to "register" to read, "... and writes to the register bank, ...".
+
+*Page 645*
+
 In Example 12.10, change "CMux=0" to "CMux=1" in the line numbered 1. on the bottom of the page.
 
 *Page 646*
 
 In Example 12.10 in the first paragraph of the page, change "CMux=0" to "CMux=1" to read "... the result on CBus through CMux with the CMux=1 signal."
 
+*Page 647*
+
+In the first paragraph, change "first" to "third" to read, "... and the wood for the third can be cut."
+
+*Page 660*
+
+In Exercise 12.15 10th line, change "ASL" to "ASLA" to read "You can compute V for the ASLA instruction ...".
+
+*Page 661*
+
+In Exercise 12.23, insert "(a)" at the beginning of the exercise.
+
 *Page 662*
 
 In Exercise 12.27 in the first sentence of part (b), change "implementation" to "connections" and "32" to "128" to read "Draw the connections of the 128 four-input multiplexers."
+
+*Page A6*
+
+Change "14.9" to "A.9" to read, "Figure A.9".
 
 *Page A11*
 
